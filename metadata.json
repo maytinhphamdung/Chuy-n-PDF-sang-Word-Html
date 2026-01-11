@@ -1,0 +1,5 @@
+{
+  "name": "PDF Scan Extractor & Translation",
+  "description": "Ứng dụng trích xuất văn bản từ file PDF scan bằng Gemini AI, hỗ trợ xem trước định dạng HTML.",
+  "requestFramePermissions": []
+}
